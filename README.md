@@ -1,4 +1,4 @@
-# KMEANS-_CLUSTRING
+# KMEANS_CLUSTRING
 
 🛒 Wholesale Market Segmentation using K-Means Clustering
 This project applies unsupervised machine learning techniques to segment customers in a wholesale market using K-Means clustering. The dataset includes various product spending categories for clients, allowing us to discover natural groupings and customer behavior patterns.
